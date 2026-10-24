@@ -1,15 +1,15 @@
 ---
-member: openrappter
-repo: kody-w/openrappter
+member: rapp-work-desktop
+repo: kody-w/rapp-work-desktop
 hive: af02504304365b6d8b068553156b5e6d
 hive_root: https://raw.githubusercontent.com/kody-w/rapp-hive-public/
-what: 🦖 Local-first AI agent powered by GitHub Copilot SDK — no API keys required
-line: openrappter
+what: RAPP Work desktop — the local-first workspace app with a Work Twin (macOS Apple Silicon)
+line: rapp-work
 ---
 
-# openrappter on the RAPP/1 network
+# rapp-work-desktop on the RAPP/1 network
 
-🦖 Local-first AI agent powered by GitHub Copilot SDK — no API keys required
+RAPP Work desktop — the local-first workspace app with a Work Twin (macOS Apple Silicon)
 
 - Line: **OpenRappter**, on the [RAPP/1 subway map](https://kody-w.github.io/rapp-hive-public/portfolio/subway.html).
 - New to RAPP? [Start here: get your Brainstem](https://github.com/kody-w/rapp-installer#start-here).

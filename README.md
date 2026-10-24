@@ -1,5 +1,8 @@
 # RAPP Work
 
+> This repo is the RAPP Work desktop app. It moved here from `kody-w/openrappter` main on 2026-10-23 with its full
+> history; that repo now belongs to OpenRappter, the notch creature. The RAPP Work SDK and profiles are `kody-w/rapp-work`.
+
 Serious local AI for real business work.
 
 RAPP Work is a desktop workspace for persistent agents, assigned work,
